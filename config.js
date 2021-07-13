@@ -1,0 +1,6 @@
+module.exports = {
+    TOTAL_COINS: 1000,
+    TRANSACTION_THRESHOLD: 5,
+    FIRST_LEADER: '',
+    TRANSACTION_FEE: 1
+}
